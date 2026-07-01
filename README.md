@@ -249,7 +249,3 @@ The application automatically generates:
 ---
 
 
-5. Open a Pull Request
-
----
-
